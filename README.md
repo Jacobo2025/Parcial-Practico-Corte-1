@@ -28,3 +28,18 @@ Prueba SonarQube: mvn clean verify sonar:sonar
 - Diagrama de casos de uso.
 ![Captura de pantalla 2025-09-18 142639.png](docs/imagenes/Captura%20de%20pantalla%202025-09-18%20142639.png)
 
+# Solución del parcial
+
+
+3. Realice un diagrama de clases que permita entender su solución, adicional
+   mencione que principios SOLID está aplicando, en que componentes y
+   como.
+
+# Solución punto 3:
+
+- Principio SOLID: el principio SOLID utilizado en este caso es S (Single Responsibility), ya que se pide que la lógica de la clase principal no se modifique si se llega a implementar nuevos métodos de pago o nuevos módulos.
+
+![Captura de pantalla 2025-09-18 144500.png](docs/imagenes/Captura%20de%20pantalla%202025-09-18%20144500.png)
+
+
+
