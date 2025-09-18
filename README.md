@@ -43,3 +43,16 @@ Prueba SonarQube: mvn clean verify sonar:sonar
 
 
 
+
+4. Identifique los 2 patrones de diseño que se están solicitando a implementar
+   en el caso de estudio, especificando por cada uno:
+   a. Nombre del Patrón
+   b. Tipo de Patrón (Creacional, Estructural o de Comportamiento).
+   c. Argumentación del porque se utiliza y como se ve reflejado en el
+   diagrama de clases anterior. 
+
+## respuesta 4:
+Los patrones de diseño que piden implemetar son
+- Abstrac factory: es un patrón creacional, se utiliza aqui porque hay que implementar una "familia" de métodos de pago.
+- Command: es un patrón de comortamiento, se utiliza aqui porque hay modulos a quienes se les transmite una información. 
+
