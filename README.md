@@ -13,6 +13,7 @@ Prueba SonarQube: mvn clean verify sonar:sonar
 ![Captura de pantalla 2025-09-16 195210.png](docs/imagenes/Captura%20de%20pantalla%202025-09-16%20195210.png)
 
 
+
 1. Diagrama de contexto
 ![Captura de pantalla 2025-09-18 164915.png](docs/imagenes/Captura%20de%20pantalla%202025-09-18%20164915.png)
 
@@ -56,3 +57,7 @@ Los patrones de diseño que piden implemetar son
 - Abstrac factory: es un patrón creacional, se utiliza aqui porque hay que implementar una "familia" de métodos de pago.
 - Command: es un patrón de comortamiento, se utiliza aqui porque hay modulos a quienes se les transmite una información. 
 
+
+5. Desarrolle a nivel de código su solución, realizando la ejecución de los datos
+   de entrada del enunciado y presentando las respectivas evidencias de sus
+   datos de salida (screenshot). 
