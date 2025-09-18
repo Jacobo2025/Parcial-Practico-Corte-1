@@ -11,3 +11,7 @@ Prueba Jacoco: mvn clean verify
 ![Captura de pantalla 2025-09-16 195717.png](docs/imagenes/Captura%20de%20pantalla%202025-09-16%20195717.png)
 Prueba SonarQube: mvn clean verify sonar:sonar
 ![Captura de pantalla 2025-09-16 195210.png](docs/imagenes/Captura%20de%20pantalla%202025-09-16%20195210.png)
+
+5. Desarrolle a nivel de código su solución, realizando la ejecución de los datos
+   de entrada del enunciado y presentando las respectivas evidencias de sus
+   datos de salida (screenshot). 
